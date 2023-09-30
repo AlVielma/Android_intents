@@ -63,14 +63,14 @@
            android:layout_width="150dp"
            android:layout_height="match_parent"
            android:layout_marginStart="30dp"
-           android:text="Intent 1" />
+           android:text="Abrir activity" />
 
        <Button
            android:id="@+id/btn2"
            android:layout_width="150dp"
            android:layout_height="match_parent"
            android:layout_marginStart="30dp"
-           android:text="Intent 2" />
+           android:text="Google" />
    </LinearLayout>
 
         <LinearLayout
@@ -84,14 +84,14 @@
                 android:layout_width="150dp"
                 android:layout_height="match_parent"
                 android:layout_marginStart="30dp"
-                android:text="Intent 3" />
+                android:text="Enviar cadena" />
 
             <Button
                 android:id="@+id/btn4"
                 android:layout_width="150dp"
                 android:layout_height="match_parent"
                 android:layout_marginStart="30dp"
-                android:text="Intent 4" />
+                android:text="Llamada" />
 
         </LinearLayout>
         <LinearLayout
@@ -105,14 +105,14 @@
                 android:layout_width="150dp"
                 android:layout_height="match_parent"
                 android:layout_marginStart="30dp"
-                android:text="Intent 5" />
+                android:text="Spotify" />
 
             <Button
                 android:id="@+id/btn6"
                 android:layout_width="150dp"
                 android:layout_height="match_parent"
-                android:layout_marginStart="30dp"
-                android:text="Intent 6" />
+                android:layout_marginHorizontal="30dp"
+                android:text="Camara" />
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -125,14 +125,14 @@
                 android:layout_width="150dp"
                 android:layout_height="match_parent"
                 android:layout_marginStart="30dp"
-                android:text="Intent 7" />
+                android:text="Wifi" />
 
             <Button
                 android:id="@+id/btn8"
                 android:layout_width="150dp"
                 android:layout_height="match_parent"
-                android:layout_marginStart="30dp"
-                android:text="Intent 8" />
+                android:layout_marginHorizontal="30dp"
+                android:text="Mapa" />
         </LinearLayout>
 
 
